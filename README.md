@@ -1,7 +1,7 @@
 # Game project
 
 Para correr el juego corre en la terminal -->
-¨¨¨sh
+```sh
 cd game
 py main.py
-¨¨¨
+```
